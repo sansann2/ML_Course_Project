@@ -1,0 +1,6 @@
+llama-cpp-python==0.3.4
+googlesearch-python
+bs4 
+charset-normalizer 
+requests-html 
+lxml_html_clean
